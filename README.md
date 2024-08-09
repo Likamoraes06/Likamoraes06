@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vinda ao meu perfil🤍🐬🤙
 
-<!--
-**Likamoraes06/Likamoraes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Eliza Maria
 
-Here are some ideas to get you started:
+- estou estudando na [Alura](https://www.alura.com.br)
+- estou e desenvolvendo na linguagem Javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### para entrar em contato comigo 💌
+  @likaamoraes_
+  
+  ![image](https://github.com/user-attachments/assets/5ec513e9-3931-461c-a2d9-bbfdbe2a5d88)
+
+
+  
+  
